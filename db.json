@@ -1,3 +1,8 @@
 {
-  "user": "sans"
+  "user": [
+    {
+      "username": "pajor"
+      "password" : "whateva"
+    }
+  ]
 }
